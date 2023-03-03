@@ -13,7 +13,11 @@ Bienvenidos al Marketplace de Belleza, una comunidad donde puedes comprar y vend
 
 ### Seguimiento en trello:###
 
-### Wreframe en Figma:###
+[https://trello.com/invite/b/mZfIZi8X/ATTI5971158cc34f43aecbd1f4a3f5936d5f2C1B9273/marketplace]
+
+### Wireframe en Figma:###
+
+[https://www.figma.com/file/Fv7wlVnqzdP6Ow8JAl9vlv/Marketplace?node-id=0%3A1&t=U7JGTHkObtPGFrqP-]
 
 
 
