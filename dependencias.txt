@@ -1,0 +1,17 @@
+Dependencias:
+
+* dotenv
+* express
+* express-handlebars
+* method-override
+* nodemailer
+* pg
+* bootstrap
+* jsonwebtoken
+* bcyptjs
+* body-parser
+* cookie-parser
+* express-fileupload
+* nodemon
+* cors
+* swagger
