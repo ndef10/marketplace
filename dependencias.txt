@@ -1,12 +1,17 @@
 Dependencias:
 
+Frontend:
+
+* bootstrap
+
+Backend:
+
 * dotenv
 * express
 * express-handlebars
 * method-override
 * nodemailer
 * pg
-* bootstrap
 * jsonwebtoken
 * bcyptjs
 * body-parser
