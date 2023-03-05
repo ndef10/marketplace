@@ -3,12 +3,12 @@ Dependencias:
 Frontend:
 
 * bootstrap
+* express-handlebars
 
 Backend:
 
 * dotenv
 * express
-* express-handlebars
 * method-override
 * nodemailer
 * pg
@@ -17,6 +17,9 @@ Backend:
 * body-parser
 * cookie-parser
 * express-fileupload
-* nodemon
 * cors
 * swagger
+
+Desarrollo:
+
+* nodemon
