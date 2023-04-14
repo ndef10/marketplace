@@ -19,7 +19,7 @@ Bienvenidos al Marketplace de Belleza, una comunidad donde puedes comprar y vend
 
 [https://www.figma.com/file/Fv7wlVnqzdP6Ow8JAl9vlv/Marketplace?node-id=0%3A1&t=U7JGTHkObtPGFrqP-]
 
-Probando configuracion de git (correo)
+### (Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)
 
 
 
