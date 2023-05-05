@@ -45,7 +45,7 @@ La gestión del proyecto se realiza en Trello. (https://trello.com/invite/b/mZfI
 
 ## **Aclaración** 
 
-**(Corresponde a hito 1 del proyecto final dónde solo se instalan algunas dependencias y se inicializa el proyecto, los siguientes hitos se trabajaron en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)** 
+**(Corresponde a hito 1 del proyecto final dónde solo se instalan algunas dependencias y se inicializa el proyecto, los siguientes hitos se trabajaron en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora junto a Pedro Campos)** 
 
 Puede consultar el repositorio en la siguiente URL: (https://github.com/Cochagy/marketplace-proyecto.git)
 
