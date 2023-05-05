@@ -47,15 +47,15 @@ La gestión del proyecto se realiza en Trello. Se puede acceder al tablero en el
 
 **(Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)**
 
+El proyecto esta desplegado en railway con base de datos remota. Puede acceder desde la siguiente URL: **(https://marketplace-proyecto-production.up.railway.app/)**
+
 
 
 ## **Demo del sitio web**
 
 Puede ver una demo del sitio web en el siguiente enlace: (https://www.loom.com/share/f9a1742010d345558e20f0596ee40c2e).
 
-### **Aclaracion**
 
-**(Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)**
 
 
 
