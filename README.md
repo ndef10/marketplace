@@ -1,5 +1,5 @@
 
-### Bienvenidos al Marketplace de Belleza Beauty Swap
+# Bienvenidos al Marketplace de Belleza Beauty Swap
 
 (Este sitio web fue creado como proyecto final grupal durante el bootcamp)
 
@@ -41,13 +41,13 @@ El diseño de la interfaz de usuario se encuentra en Figma. Se puede acceder al 
 
 ## **Gestión del proyecto**
 
-La gestión del proyecto se realiza en Trello. Se puede acceder al tablero en el siguiente enlace: **[enlace al tablero en Trello](https://trello.com/invite/b/mZfIZi8X/ATTI5971158cc34f43aecbd1f4a3f5936d5f2C1B9273/marketplace)**.
+La gestión del proyecto se realiza en Trello. Se puede acceder al tablero en el siguiente enlace: **[Seguimiento en Trello](https://trello.com/invite/b/mZfIZi8X/ATTI5971158cc34f43aecbd1f4a3f5936d5f2C1B9273/marketplace)**.
 
-### **Aclaracion**
+# **Aclaración**
 
-**(Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)**
+## **(Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)** ##
 
-El proyecto esta desplegado en railway con base de datos remota. Puede acceder desde la siguiente URL: **(https://marketplace-proyecto-production.up.railway.app/)**
+## El proyecto esta desplegado en railway con base de datos remota. Puede acceder desde la siguiente URL: **(https://marketplace-proyecto-production.up.railway.app/)** ##
 
 
 
