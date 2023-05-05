@@ -37,17 +37,17 @@ Bienvenidos al Marketplace de Belleza, una comunidad donde puedes comprar y vend
 
 ## **Diseño**
 
-El diseño de la interfaz de usuario se encuentra en Figma. Se puede acceder al diseño en el siguiente enlace: **[enlace al diseño en Figma](https://www.figma.com/file/Fv7wlVnqzdP6Ow8JAl9vlv/Marketplace?node-id=0%3A1&t=U7JGTHkObtPGFrqP-)**.
+El diseño de la interfaz de usuario se encuentra en Figma.**[enlace al diseño en Figma](https://www.figma.com/file/Fv7wlVnqzdP6Ow8JAl9vlv/Marketplace?node-id=0%3A1&t=U7JGTHkObtPGFrqP-)**.
 
 ## **Gestión del proyecto**
 
-La gestión del proyecto se realiza en Trello. Se puede acceder al tablero en el siguiente enlace: **[Seguimiento en Trello](https://trello.com/invite/b/mZfIZi8X/ATTI5971158cc34f43aecbd1f4a3f5936d5f2C1B9273/marketplace)**.
+La gestión del proyecto se realiza en Trello.**[Seguimiento en Trello](https://trello.com/invite/b/mZfIZi8X/ATTI5971158cc34f43aecbd1f4a3f5936d5f2C1B9273/marketplace)**.
 
-# **Aclaración**
+## **Aclaración** 
 
-## **(Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)** ##
+**(Corresponde a hito 1 del proyecto final, que luego continuó en la sesión de mi compañero Jorge Molina dónde figuro como colaboradora)** 
 
-## El proyecto esta desplegado en railway con base de datos remota. Puede acceder desde la siguiente URL: **(https://marketplace-proyecto-production.up.railway.app/)** ##
+El proyecto esta desplegado en railway con base de datos remota. Puede acceder desde la siguiente URL: **(https://marketplace-proyecto-production.up.railway.app/)** 
 
 
 
